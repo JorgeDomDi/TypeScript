@@ -1,4 +1,5 @@
 import './style.css'
+import "./topics/02-arrays-object-interfaces"
 
 // import './topics/01-basic-types'
 //?con el import estamos requiriendo un modulo que es una agrupacion encapsulada de un procedimiento
